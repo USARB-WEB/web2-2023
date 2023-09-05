@@ -11,3 +11,4 @@ https://github.com/sergiuchilat/node-express-crud/blob/master/src/database/index
 
 NestJS sample
 https://github.com/sergiuchilat/nestjs-crud
+https://github.com/USARB-WEB/express-sample-2023
