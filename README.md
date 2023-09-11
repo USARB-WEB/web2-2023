@@ -28,3 +28,7 @@ https://blog.logrocket.com/build-rest-api-node-express-mysql/
 
 Express MySQL sample
 https://github.com/USARB-WEB/express-db-sample
+
+Database Tools
+https://www.heidisql.com/
+https://www.jetbrains.com/datagrip
