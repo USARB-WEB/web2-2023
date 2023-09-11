@@ -19,12 +19,15 @@ https://www.npmjs.com/package/nodemon
 
 Database UML diagram
 https://dbdiagram.io
+Example https://dbdiagram.io/d/64fea45402bd1c4a5e506ac5
 
 Free MySQL hosting
 https://www.freemysqlhosting.net/
 
 Express MySQL tutorial
 https://blog.logrocket.com/build-rest-api-node-express-mysql/
+
+
 
 Express MySQL sample
 https://github.com/USARB-WEB/express-db-sample
