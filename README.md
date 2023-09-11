@@ -16,3 +16,15 @@ https://github.com/USARB-WEB/express-sample-2023
 
 NodeMon for watching changes and autorestart server
 https://www.npmjs.com/package/nodemon
+
+Database UML diagram
+https://dbdiagram.io
+
+Free MySQL hosting
+https://www.freemysqlhosting.net/
+
+Express MySQL tutorial
+https://blog.logrocket.com/build-rest-api-node-express-mysql/
+
+Express MySQL sample
+https://github.com/USARB-WEB/express-db-sample
