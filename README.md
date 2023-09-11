@@ -1,5 +1,7 @@
 # web2-2023
 
+## ToR - technical documentation. Example https://docs.google.com/document/d/1drhy7uHkpE3G9pa9L0GLT9MpVotlFC4WJXtKV1Arqyk/edit?usp=sharing
+
 ## Utils
 Trello workspace invite link
 https://trello.com/invite/web22023/ATTI5a53e8aa5c9c8df51ba7cb163dc308d4C8A3D62A
